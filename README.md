@@ -1,2 +1,2 @@
-# maheshbala.github.io
-Professional Portfolio Website
+# portfolio-website
+My professional portfolio with automated deployment
